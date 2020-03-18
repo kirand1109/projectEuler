@@ -1,2 +1,2 @@
 # projectEuler
-Solving projecteuler problem using python programming
+Solving projecteuler problems using python programming
